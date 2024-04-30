@@ -17,7 +17,7 @@ This project is a simple language translation app created using Python and Strea
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/language-translation-app.git
+    git clone https://github.com/Joshuaatanu/language-translation.git
     cd language-translation-app
     ```
 
